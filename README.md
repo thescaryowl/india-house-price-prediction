@@ -94,7 +94,7 @@ Data Ingestion → Preprocessing → Feature Engineering → Model Training
 ## Installation
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/thescaryowl/india-house-price-prediction.git
 cd india-house-price-prediction
 
 python -m venv venv
