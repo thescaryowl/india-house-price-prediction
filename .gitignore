@@ -13,8 +13,8 @@ build/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Data files - EXCLUDED
-data/
+# Large CSV files in processed folder
+data/processed/*.csv
 
 # Large model files
 models/*.pkl
